@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Axad Malik and I'm a full stack web developer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Axad Malik and I'm a e-commerce product lister, from Pakistan</h2>
 
 ###
 
